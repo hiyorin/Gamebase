@@ -1,0 +1,1 @@
+{"name":"Domain","references":["Application","UniRx","UniRx.Async","Zenject","Gamebase-CleanArchitecture"],"includePlatforms":[],"excludePlatforms":[],"allowUnsafeCode":false,"overrideReferences":false,"precompiledReferences":[],"autoReferenced":true}

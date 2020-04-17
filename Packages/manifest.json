@@ -1,0 +1,102 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "OpenUPM",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.neuecc",
+        "com.cysharp",
+        "com.svermeulen",
+        "com.coffee",
+        "com.demigiant",
+        "com.pixelwizards"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git#1.1.3",
+    "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git#1.1.0-preview.12",
+    "com.demigiant.dotween": "1.2.32",
+    "com.gamebase.clean-architecture": "https://github.com/hiyorin/Gamebase-CleanArchitecture.git#v1.0.0-preview.1",
+    "com.gamebase.core": "https://github.com/hiyorin/Gamebase-Core.git#v1.0.0-preview.1",
+    "com.gamebase.loader": "https://github.com/hiyorin/Gamebase-Loader.git#v1.0.0-preview.1",
+    "com.gamebase.scene": "https://github.com/hiyorin/Gamebase-SceneManagement.git#v1.0.0-preview.1",
+    "com.gamebase.sound": "https://github.com/hiyorin/Gamebase-Sound.git#v1.0.0-preview.1",
+    "com.gamebase.tapeffect": "https://github.com/hiyorin/Gamebase-TapEffect.git#v1.0.0-preview.1",
+    "com.unity.collab-proxy": "1.2.16",
+    "com.unity.ide.rider": "1.1.4",
+    "com.unity.ide.vscode": "1.1.4",
+    "com.unity.render-pipelines.universal": "7.3.1",
+    "com.unity.test-framework": "1.1.11",
+    "com.unity.textmeshpro": "2.0.1",
+    "com.unity.timeline": "1.2.13",
+    "com.unity.transport": "0.3.0-preview.6",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.upm.develop": "0.1.2-preview",
+    "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.cloth": "1.0.0",
+    "com.unity.modules.director": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.terrain": "1.0.0",
+    "com.unity.modules.terrainphysics": "1.0.0",
+    "com.unity.modules.tilemap": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.umbra": "1.0.0",
+    "com.unity.modules.unityanalytics": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+    "com.unity.modules.unitywebrequestaudio": "1.0.0",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0",
+    "com.unity.modules.unitywebrequestwww": "1.0.0",
+    "com.unity.modules.vehicles": "1.0.0",
+    "com.unity.modules.video": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.modules.wind": "1.0.0",
+    "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.coffee.git-dependency-resolver": {
+      "revision": "1.1.3",
+      "hash": "693ee01bd5afa0adb697fb435261dc866a883ad3"
+    },
+    "com.coffee.upm-git-extension": {
+      "revision": "1.1.0-preview.12",
+      "hash": "aa9f6ea79913e7e2749edea528c42f2f700ac401"
+    },
+    "com.gamebase.clean-architecture": {
+      "revision": "v1.0.0-preview.1",
+      "hash": "0e317d1b6bdd4b5967a9e5b89efaf4e8ef9ad547"
+    },
+    "com.gamebase.core": {
+      "revision": "v1.0.0-preview.1",
+      "hash": "5c611ec42c9c8315e464430c0f98284bbff3e7a5"
+    },
+    "com.gamebase.loader": {
+      "revision": "v1.0.0-preview.1",
+      "hash": "fea983dd56a5a475d4e5f83aeb0af06eb30c486a"
+    },
+    "com.gamebase.scene": {
+      "revision": "v1.0.0-preview.1",
+      "hash": "ce7ce47702189da3c645c64e7573ca2ce879cd5e"
+    },
+    "com.gamebase.sound": {
+      "revision": "v1.0.0-preview.1",
+      "hash": "691ca80d094ad85600553a4c888199f2110d9788"
+    },
+    "com.gamebase.tapeffect": {
+      "revision": "v1.0.0-preview.1",
+      "hash": "14fdf2e05ed52731611a21f2a2f4775aa28133dd"
+    }
+  }
+}
